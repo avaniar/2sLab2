@@ -1,0 +1,5 @@
+﻿  Header.cpp
+C:\Users\иван\source\repos\AiSD\lab2\lab2\Header.cpp(62,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\AiSD\lab2\lab2\Header.cpp(120,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\AiSD\lab2\lab2\Header.cpp(173,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2.vcxproj -> C:\Users\иван\source\repos\AiSD\lab2\lab2\Debug\lab2.exe
